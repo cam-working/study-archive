@@ -1,8 +1,8 @@
 ## Welcome 2 the Study-Archive
 
-You can use the [editor on GitHub](https://github.com/cam-working/study-archive/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This digital space will serve to house readings, points of discussion, and the like from a collabritive effort toward study.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'll also use it to keep track of my reading, watching, and listening.
 
 ### Markdown
 
